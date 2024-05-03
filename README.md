@@ -1,1 +1,2 @@
-https://github.com/raosipova/postgres/assets/154537017/f72c1284-1e8f-4c60-8501-8b0e54e5ffd6
+
+![Скриншот postman](D:\aqa-code-master\docker\Docker1\screenshot.png)
