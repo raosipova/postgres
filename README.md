@@ -1,1 +1,1 @@
-![get.png](..%2F..%2F..%2Fdownloads%2Fget.png)
+https://github.com/raosipova/postgres/assets/154537017/f72c1284-1e8f-4c60-8501-8b0e54e5ffd6
